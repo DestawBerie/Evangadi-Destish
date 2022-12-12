@@ -1,3 +1,3 @@
-# Eva-Destish
+#gitPractice
 my first evangadi git
 
